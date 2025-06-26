@@ -1,4 +1,3 @@
-theme: minima
 title: The Real Sweat Equity Podcast
 description: Documentation and episode flows for The Real Sweat Equity Podcast
 baseurl: "/real-sweat-equity-podcast-docs"
@@ -10,8 +9,18 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-# Navigation
-header_pages:
-  - index.md
-  - Podcast Framework - Central Theme & Guest Profile.md
-  - Production Timeline - WhatsApp Ready.md
+# Default layout for all pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+
+# Enable relative links
+relative_links:
+  enabled: true
+  collections: true
