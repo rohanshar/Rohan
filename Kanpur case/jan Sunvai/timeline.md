@@ -1,0 +1,32 @@
+# Timeline of Events: The Ordeal of Uma Bagla
+
+This timeline details the events surrounding the property dispute at 26/70 Birhana Road, Kanpur Nagar, from the perspective of Uma Bagla, focusing on the injustice and distress she has faced.
+
+**Background:**
+
+*   **Property:** 26/70 Bagla Niwas, Birhana Road, Kanpur Nagar. Originally owned by Durga Devi, who willed different floors to different family branches, resulting in shared ownership.
+*   **Uma Bagla:** Widow of Late Anil Bagla, aged 68. Resided at the property with her husband.
+
+**Timeline:**
+
+*   **2005:** My husband, Anil Bagla, passes away. At this time, I had two daughters; one was in class 10th and the elder one was in her second year of college. I became financially dependent on my daughters for support.
+*   **2011:** My elder daughter gets married. My financial dependency shifts primarily to her.
+*   **2014:** Forced to leave my marital home (26/70 Birhana Road) due to unbearable harassment and mental torture by certain family members (later identified as Mahendra Bagla and his family). Basic amenities like water and electricity were deliberately cut off. I moved to Ghaziabad to live with my elder daughter for safety and shelter.
+*   **Post-2014:** Continuous pressure from Mahendra Bagla and his family to sell my share of the ancestral property. They threatened that I would be left with nothing if I refused. They exploited my vulnerable financial situation, even depositing ₹50,000 into my account without consent (which I returned) and leaving blank checks at my home.
+*   **April 20, 2019:** Unbeknownst to me at the time, my mother-in-law, Lakshmi Devi Bagla, reportedly executed a gift deed transferring her share (which impacted my inherited share) to her other son, Ajay Bagla. This crucial fact was concealed from me.
+*   **February 1, 2025:** Summoned to Kanpur under extreme pressure and fear, with the pretext of settling shares among family members. Upon reaching the registrar's office, I felt intimidated by the presence of four individuals waiting there. I was falsely told the property's market value was around ₹75 lakh, and they promised me ₹60 lakh for my share. Under immense duress and without being allowed proper review, I was made to sign the sale documents. Only ₹30 lakh was transferred to my account via NEFT, with a verbal promise for the remaining ₹30 lakh later. The documents fraudulently registered a 1/3 share of the property portion to Archana Bagla (wife of Mahendra) and Hemant Bagla (son of Mahendra), despite my actual share being smaller (1/4 of half, further reduced by the hidden 2019 gift deed). My daughter and her driver were also pressured into signing as witnesses, fearing for our safety. I left Kanpur immediately after, returning to my daughter's home in Ghaziabad.
+*   **February 5, 2025:** (As per Hemant Bagla's complaint) Ajay Bagla and others allegedly broke into the portion Hemant claimed based on the fraudulent registry.
+*   **February 7, 2025:** Hemant Bagla files a police complaint (20016425003266) against Ajay Bagla and others.
+*   **February 11, 2025:** Ajay Bagla files a police complaint (20016425003630) against Hemant, Archana, and Mahendra Bagla, mentioning the fraudulent sale deed and ongoing disputes. He also files a civil suit (No. 267/2025) against me, Archana Bagla, and Hemant Bagla regarding the property.
+*   **February 17, 2025:** Police investigation report (R) on Hemant's complaint acknowledges the dispute, the 2019 gift deed, the discrepancy in the sold share (1/3 vs 1/4), the civil suit, and notes the matter is civil in nature.
+*   **February 18, 2025:** Archana Bagla files police complaints (20016425004320 & 40016425010167) against me, my daughter Richa Sharma, and witness Surendra Pawar, falsely accusing us of conspiracy, hiding the gift deed (which I was unaware of), committing fraud in the registry, and usurping money.
+*   **February 22, 2025:** Without any prior notice, my bank account containing the ₹30 lakh received under duress is frozen, causing immense shock and hardship.
+*   **February 28, 2025:** I learn about the false and malicious complaints filed against me by Mahendra Bagla's family (Archana Bagla).
+*   **March 4, 2025:** Police investigation report (R) on Ajay Bagla's complaint reiterates the property history, the gift deed, the incorrect share sold, the civil nature of the dispute, and the ongoing civil suit.
+*   **March 9, 2025:** Police investigation report (R) on Archana Bagla's complaint notes contacting me via phone. I informed them of my poor health, my unawareness of the 2019 gift deed at the time of the sale, and my willingness to cooperate. The report again classifies the matter as civil.
+*   **March 27, 2025:** Deeply distressed, fearing for my safety and that of my daughter due to the actions of Mahendra Bagla and his family, and suffering financial and mental agony, I file a complaint (20016425007994) with the Commissioner of Police, Kanpur. I detail the entire history of harassment, the forced sale on Feb 1, 2025, the freezing of my account, and the false accusations. I state clearly that I never intended to sell the property, which holds sentimental value as my late husband's home. I express my readiness to return the ₹30 lakh forced upon me to ensure my safety and peace, and request that the fraudulent sale be nullified and my rightful share restored.
+*   **April 16, 2025:** Police investigation report (R) on my complaint (20016425007994) again summarizes the situation, notes my statement about being unaware of the gift deed, acknowledges the civil suit, and concludes it's a civil matter where parties are filing counter-complaints, suggesting no further police action is needed.
+
+**Current Situation:**
+
+I remain in a state of fear and distress, having been cheated out of my rightful share in my marital home through deceit and coercion. My bank account was frozen, and false accusations have been leveled against me and my daughter. My only wish is to return the money forced upon me, nullify the fraudulent transaction conducted under duress, regain my rightful share in the property, and live without fear. I seek justice and protection from the authorities.

@@ -1,0 +1,18 @@
+- **Uma Bagla**: Senior citizen, account holder at HDFC Bank, involved in a property transaction where she sold her portion to Hemant and Archna Bagla. Her funds (Rs 30 Lakhs) are blocked by the bank due to a police order related to a dispute.
+- **Richa Sharma**: Daughter of Uma Bagla, assisting with communications and actions related to the case, including emailing the bank to release the blocked funds and coordinating next steps.
+- **Monty Gyanchandani**: Branch Manager at HDFC Bank, Birhana Road Kanpur, involved in communications regarding the blocked funds, provided the FIR copy to Uma Bagla, and is a key contact for resolution discussions.
+- **Ishvar Tiwari**: PB Authourizer at HDFC Bank, Birhana Road Kanpur, communicated the bank's inability to release Uma Bagla's funds due to a police order and lack of an NOC.
+- **Archna Bagla**: Involved in the property dispute, accused Uma Bagla of a fraudulent registry in the transaction, possibly a relative or party to the property sale.
+- **Hemant Bagla**: Involved in the property dispute alongside Archna Bagla, purchased Uma Bagla's property portion, possibly a relative or party to the transaction.
+- **Rajneesh Pal**: Sub-inspector at the local police station, issued the order to HDFC Bank to hold Uma Bagla's funds and is involved in the investigation of the property dispute.
+- **Ravindar Kumar**: Assistant Commissioner of Police (ACP), a potential contact for legal or police-related assistance, tasked to Rohan for outreach.- **Hitesh**: Legal advisor or consultant, reviewed documents and suggested a strategy of directly addressing the bank with a strongly worded email, involved in ongoing case planning.
+- **Neeraj**: Friend of Uma Bagla, Tasked with discussing a potential settlement with Mr. Dwivedi, likely a team member or associate assisting in the case.
+- **Mr. Dwivedi**: Possibly a mediator or legal advisor, identified as a contact for exploring a settlement in the dispute.
+- **RK Sharma (Papa)**: Richa's father father in law, tasked with contacting a friend to obtain a lawyer's name for legal support.
+- **Rohan**: Husband of Richa Involved in coordinating legal assistance, tasked with contacting Girish and Ravindar Kumar to secure a lawyer or police support.
+- **Girish**: Friend of Rohan in Kanpur who can help, identified as a resource by Rohan.
+- Rajiv Jain. Possible Numbers. Contact through Vinay Tiwari (Papa's Friend) 9415161486, 07408125973. We need to try and meet him next time in Kanpur. Possible address Chamber No 32, Collectrate Compound, Kanpur Court, Kanpur, Civil Lines, Kanpur - 208002
+- Kanishka Pandey - Friend of Richa a Advocate in kanpur but we can't trust him. give information selectively
+- Naresh Chandra Tripathi - advocate ex g s kanpur bar association. He is representing Hemant Bagla, Mahinder Bagla and Archana unofficially. 
+- Vishal Bagla - A family friend who is local. We (uma bagla and family) are using him to get some local information etc about the happenings in Kanpur
+

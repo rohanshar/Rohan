@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"0b945ff9b9a865b6","type":"text","text":"```dataview\nTASK\nWHERE contains(tags, \"#computer\") AND !completed\nGROUP BY file.link\n\n```\n\n","x":-720,"y":-1300,"width":495,"height":500},
+		{"id":"nonComputerTasksNode","type":"text","text":"```dataview\nTASK\nWHERE !contains(tags, \"#computer\") AND !completed\nGROUP BY file.link\n\n```\n\n","x":-180,"y":-1300,"width":520,"height":500},
+		{"id":"85f534422e4cddfa","type":"file","file":"50000 Feet/Projects Todo/Misc Urgent.md","x":-1120,"y":-760,"width":400,"height":400},
+		{"id":"endurocoUrgentId","type":"file","file":"50000 Feet/Projects Todo/Enduroco Urgent.md","x":-672,"y":-760,"width":400,"height":400},
+		{"id":"softwareCompanyId","type":"file","file":"50000 Feet/Projects Todo/Software Company.md","x":-1120,"y":160,"width":400,"height":400},
+		{"id":"e67083b5e65e7eeb","type":"file","file":"50000 Feet/Projects Todo/Winspace (Software Company Project).md","x":-670,"y":160,"width":400,"height":400},
+		{"id":"f1a2b3c4d5e6f7g8","type":"file","file":"50000 Feet/Projects Todo/Enduroco Mobile App.md","x":-220,"y":160,"width":400,"height":400},
+		{"id":"fedcba9876543210","type":"file","file":"50000 Feet/Projects Todo/Vibe Coder.md","x":1605,"y":160,"width":400,"height":400},
+		{"id":"abcdef1234567890","type":"file","file":"50000 Feet/Projects Todo/Ultimate Dashboard.md","x":2030,"y":160,"width":400,"height":400},
+		{"id":"endurocoLELId","type":"file","file":"50000 Feet/Projects Todo/Enduroco LEL.md","x":1130,"y":160,"width":400,"height":400},
+		{"id":"newEndurocoLongTerm","type":"file","file":"50000 Feet/Projects Todo/Enduroco Long term.md","x":230,"y":160,"width":400,"height":400},
+		{"id":"4bccf8817330a44d","type":"file","file":"50000 Feet/Projects Todo/Ultra Rides.md","x":680,"y":160,"width":400,"height":400},
+		{"id":"25e67c4a0affd2a7","type":"file","file":"50000 Feet/Projects Todo/TheRealSweatEquityPodcast.md","x":-1120,"y":640,"width":400,"height":400},
+		{"id":"satyajitRoutNodeId","type":"file","file":"50000 Feet/Projects Todo/Satyajit Rout.md","x":-670,"y":640,"width":400,"height":400},
+		{"id":"8b08488a5d9fc12a","type":"file","file":"50000 Feet/Projects Todo/Invoice Generation portal.md","x":-1120,"y":-320,"width":400,"height":400},
+		{"id":"a1b2c3d4e5f6a7b8","type":"file","file":"50000 Feet/Projects Todo/Smart Meter.md","x":-217,"y":-320,"width":400,"height":400},
+		{"id":"bldcFanId","type":"file","file":"50000 Feet/Projects Todo/BLDC Fan.md","x":230,"y":-320,"width":400,"height":400},
+		{"id":"55556ab705cf1a84","type":"file","file":"50000 Feet/Projects Todo/Kanpur.md","x":685,"y":-320,"width":400,"height":400},
+		{"id":"ultraSafeElectricBlanketId","type":"file","file":"50000 Feet/Projects Todo/UltraSafe Electric Blanket.md","x":-665,"y":-320,"width":400,"height":400},
+		{"id":"smartStreetLights","type":"file","file":"50000 Feet/Projects Todo/Smart Street Lights.md","x":1130,"y":-320,"width":400,"height":400},
+		{"id":"marketingProjectId","type":"file","file":"50000 Feet/Projects Todo/Marketing.md","x":-170,"y":640,"width":400,"height":400},
+		{"id":"lowCostLcdMeterNodeId","type":"file","file":"50000 Feet/Projects Todo/Low cost LCD Meter.md","x":1605,"y":-320,"width":400,"height":400}
+	],
+	"edges":[]
+}

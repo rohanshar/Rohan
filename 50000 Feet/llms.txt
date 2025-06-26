@@ -1,0 +1,68 @@
+# Rules for Structuring Notes and Active Documents
+
+This document outlines the conventions and structure for notes and active documents within the 50000 Feet directory.
+
+## General Principles
+
+- **Separate Concerns:**  Each `.md` file should ideally focus on a single project, topic, or area of responsibility.
+- **Actionable Items:**  Active documents should primarily contain actionable items, next steps, and waiting actions.
+- **Status Tracking:** Use checkboxes `[ ]` for tasks and `[x]` to mark them as completed.
+- **Contextual Information:**  Include relevant context, background, and links within each document to provide sufficient information.
+- **Regular Review:**  Active documents, especially `ActiveTodos.md`, should be reviewed and updated regularly to reflect current priorities and completed tasks.
+- **Overview Canvas:** The `0verview.canvas` file provides a visual representation of the documents and their relationships. Maintain this canvas to ensure it accurately reflects the project structure.
+
+## Document Types and Conventions
+
+### 1. Project/Topic Specific Documents (e.g., Kanpur.md, Ultra Rides.md, Enduroco.md)
+
+- **Purpose:**  These documents are dedicated to specific projects, initiatives, or areas of focus.
+- **Structure:**
+    - **Title:** Start with a clear and descriptive title (e.g., `### Kanpur`, `### Ultra Rides`, `### Enduroco`).
+    - **Context/Overview:** Briefly describe the project or topic at the beginning.
+    - **Sections:** Use headings (e.g., `#### Next Action`, `#### Waiting action`, `#### Long term Development`, `#### Urgent Bugs`) to categorize tasks and information.
+    - **Task Lists:**  Use checklists `[ ]` to list actionable items within each section.
+    - **Completed Tasks:** Mark completed tasks with `[x]`.
+    - **Dates/Deadlines:** Include dates or deadlines where relevant.
+    - **Links/References:** Link to related documents, websites, or resources.
+
+### 2. Active Todos Document (ActiveTodos.md)
+
+- **Purpose:**  This document serves as a consolidated list of all currently active tasks from various project/topic documents.
+- **Structure:**
+    - **Sections per Source Document:**  Organize tasks by the source document (e.g., `## From Kanpur.md`, `## From Ultra Rides.md`).
+    - **Active Tasks Only:**  **Crucially, only include tasks that are NOT marked as `[x]` (i.e., not completed).**
+    - **Task Lists:**  Copy active task lines directly from the source documents, maintaining the `[ ]` checkboxes.
+    - **Regularly Regenerated:**  `ActiveTodos.md` should be automatically or semi-automatically regenerated to reflect the current state of active tasks in source documents.  Do not manually edit this file directly; edit the source documents instead.
+    - **Canvas Order Priority:** The task priority in `ActiveTodos.md` is explicitly determined by the order of project files in `0verview.canvas`, from top to bottom, left to right.  Tasks from files higher and to the left on the canvas take precedence.
+
+### 3. Overview Canvas (0verview.canvas)
+
+- **Purpose:**  Provides a visual overview of the note system, showing the relationships between different documents.
+- **Maintenance:**  Keep the canvas updated as new documents are created or existing ones are reorganized.
+- **Visual Organization:**  Use the canvas to arrange documents logically and represent their connections.
+
+### 4. Misc Urgent Document (Misc Urgent.md)
+
+- **Purpose:**  For capturing miscellaneous urgent tasks or notes that don't yet belong to a specific project or document.
+- **Review and Categorize:**  Regularly review `Misc Urgent.md` and move items to more appropriate project/topic documents as they become clearer.
+
+
+## Workflow for Managing Tasks
+
+1. **Capture Tasks:** When a new task arises, add it to the relevant project/topic document (e.g., Kanpur.md, Ultra Rides.md, Enduroco.md) under an appropriate section (e.g., `#### Next Action`).
+2. **Mark as Active:** Ensure the task is marked with `[ ]` to indicate it's active.
+3. **Regenerate Active Todos:**  Update `ActiveTodos.md` to automatically reflect the newly added active task.
+4. **Work on Tasks:**  Work through the tasks listed in `ActiveTodos.md` or directly from project documents.
+5. **Mark as Complete:** When a task is completed, change its status to `[x]` in the source project/topic document.
+6. **Regenerate Active Todos:** Update `ActiveTodos.md` again to remove the completed task from the active list.
+7. **Regular Review and Automatic Updates:** Regularly review all documents to ensure they are up-to-date, accurate, and well-organized. **It is critical that whenever a task is created, modified, moved, or completed in any project/topic document, the `ActiveTodos.md` document and the "Current Task" in `0verview.canvas` are automatically updated to reflect these changes.**  `ActiveTodos.md` should always list all active tasks.
+
+**Current Task Selection for Canvas:** The "Current Task" displayed in `0verview.canvas` should be an actionable task that can be started immediately. It should **not** be a task that is blocked, waiting on someone else, or tagged with `#waiting` or a person's name (e.g., `#Saurabh`). The current task should represent the most pressing item that you can work on right now. The "Current Task" is selected from the highest priority project (based on the order of files in `0verview.canvas`, from top to bottom, left to right) that has an actionable task available.
+## Allowed Contexts
+
+The following contexts are allowed for tasks:
+
+- `#computer`: For tasks related to computer work.
+- `#home`: For tasks related to personal life or home.
+- `#waiting`: For tasks where you are waiting on someone or something.
+- `#PersonName`: Replace `PersonName` with the actual name of the person involved in the task.
