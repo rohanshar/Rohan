@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian
+.obsidian/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Logs
+*.log

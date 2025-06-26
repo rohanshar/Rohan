@@ -1,0 +1,17 @@
+theme: minima
+title: The Real Sweat Equity Podcast
+description: Documentation and episode flows for The Real Sweat Equity Podcast
+baseurl: "/real-sweat-equity-podcast-docs"
+url: "https://rohanshar.github.io"
+
+# GitHub Pages settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Navigation
+header_pages:
+  - index.md
+  - Podcast Framework - Central Theme & Guest Profile.md
+  - Production Timeline - WhatsApp Ready.md

@@ -1,7 +1,7 @@
 # 02 - Opening & Warm-up (5-15 minutes)
 
 **Version:** 1.5  
-**Last Updated:** 2025-06-26 15:00
+**Last Updated:** 2025-06-26 15:05
 
 ## Purpose
 Rewind and understand who Garima was before the transformation
@@ -14,20 +14,22 @@ Lekin pehle, quick reminder humare viewers ke liye—agar aap Episode 1 miss kar
 Thoda rewind karte hain—kaun thi Garima before these ultra rides, before the medals, before this transformation?"
 
 ## Talking Points (Garima) + Answer Hints:
-- **Left job, had a child**: "Maine job chod di thi, chhota beta tha ghar mein"
-- **Running HR firm from home**: "Ghar se HR firm chala rahi thi, but wo seriously nahi chal raha tha"
+- **Not expected to work after marriage**: "Shaadi ke baad kaam karne ki expectation nahi thi, ghar sambhalna tha"
+- **Work looked down upon**: "Agar kaam karti bhi thi, log down dekhtey the - 'ghar nahi sambhal sakti kya?'"
+- **Forced to leave after child**: "Baccha hone ke baad job chodhni padi, choice nahi thi mere paas"
 - **Living with parents setup**: "Joint family mein rehte the, parents ke saath, bahut structured life thi"
-- **Relationship challenges**: "Husband ke saath nahi reh rahe the us time, alag alag challenges the" (or any comfortable way she wants to mention this)
-- **Identity crisis despite privilege**: "Silver spoon background tha, but identity crisis face kar rahi thi"
-- **Societal expectations**: "Society ke expectations ke hisaab se sab kuch perfect tha on paper"
-- **Felt invisible, voiceless**: "But andar se bilkul invisible feel karti thi, jaise meri koi voice hi nahi hai"
+- **Relationship challenges**: "Husband ke saath nahi reh rahe the us time, aur bhi pressures the" (or any comfortable way she wants to mention this)
+- **No choice feeling**: "Lagta tha jaise mere paas koi choice hi nahi hai, bas jo kaha jaye wahi karna hai"
+- **Suffocated by expectations**: "Society ke expectations se ghut rahi thi - perfect wife, perfect mother, perfect daughter-in-law"
+- **Identity crisis despite privilege**: "Silver spoon background tha, but main khud ko bhool gayi thi - Garima kaun hai?"
+- **Felt invisible, voiceless**: "Andar se bilkul invisible feel karti thi, jaise meri koi voice hi nahi hai, main bas ek role play kar rahi hun"
 
 ## Follow-up Questions to Deepen the Struggle:
 - "Yeh invisibility day-to-day kaise lagti thi? Ghar mein, family mein?"
 - "Privilege hone ke baawjood trapped feel kar rahe the—can you paint that picture for us?"
 
 ## Host Affirmation (Rohan):
-"Matlab aap sab kuch kar rahe the jo 'supposed' to karna chahiye—business, family, responsibilities—but still it didn't feel like you. Structure tha but soul nahi tha. Society ne jo bola tha chahiye, sab tha, but something was missing—the real investment in yourself. Yeh bahut saare listeners relate kar paenge."
+"From what I understand here, let me simplify this for our audience. Garima, aap basically woh classic trap mein the jo bahut saari women face karti hain—society ne aapko perfect roles diye the to play, but koi choice nahi di thi. Perfect wife, perfect mother, perfect daughter-in-law. Aur yeh sab karte karte, andar se silent depression aa jaata hai. Outside smile kar rahe hote hain, but inside you're drowning. Structure tha but soul missing tha. Aur yeh struggle sirf aapka nahi—yeh generations of women ka struggle hai. Something was missing—the real investment in yourself."
 
 ## Transition to Next Segment (Hitesh):
 "Little did you know, aapka transformation chhup raha tha sabse unexpected jagah..."
@@ -40,7 +42,6 @@ Thoda rewind karte hain—kaun thi Garima before these ultra rides, before the m
 - Depression phase
 
 ## Amendment Notes:
-- **Version 1.4 Change**: Added hint for Garima to mention not living with husband and relationship challenges in whatever comfortable way she prefers. This context is important for understanding her complete life situation during the struggle phase.
-- **Version 1.5 Change**: Added like, share, subscribe call-to-action in opening segment to engage audience early and reference Episode 1.
+- **Version 1.5 Changes**: Added CTA, reframed to universal women's struggles, included silent depression angle, Rohan's affirmation in "from what I understand" format
 
 ## Time Target: 10 minutes
